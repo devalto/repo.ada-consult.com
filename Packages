@@ -1,13 +1,13 @@
 Package: jasperreports
-Version: 4.0.1
+Version: 4.0.1-1
 Architecture: all
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
 Depends: sun-java6-bin
-Filename: ./jasperreports-4.0.1.deb
-Size: 36487854
-MD5sum: 3d13348ba5d1bb33e75146a752d1339b
-SHA1: 21fd7c178d552bb2ca9bad118eb7e33951e3c2af
-SHA256: 795842b6badd4d354df81d42e9d38c89e24c256eb1e4738df8f1ed8128dddf29
+Filename: ./jasperreports-4.0.1-1.deb
+Size: 36491048
+MD5sum: 57fa67e84d99ddbe6d3e3765d315565f
+SHA1: 1906f105d00daaa71e5b2b2d8cdc6580bae39f05
+SHA256: c51415921e0b8510b7aabc10625e8ed2dbc4e8c5557a8ecca7d4ae7a25359059
 Section: devel
 Priority: optional
 Description: Java reports library
