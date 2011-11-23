@@ -3,7 +3,7 @@ Version: 4.0.1
 Architecture: all
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
 Depends: sun-java6-bin
-Filename: ./jasperreports-4.0.1.deb
+Filename: /home/sylvain/src/repo.ada-consult.com/jasperreports-4.0.1.deb
 Size: 36487854
 MD5sum: 3d13348ba5d1bb33e75146a752d1339b
 SHA1: 21fd7c178d552bb2ca9bad118eb7e33951e3c2af
@@ -14,4 +14,19 @@ Description: Java reports library
  Creates reports using specially crafted XML
  files. For more info, see
  http://www.jaspersoft.com
+
+Package: php-java-bridge
+Version: 6.2.1
+Architecture: all
+Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
+Depends: sun-java6-bin
+Filename: /home/sylvain/src/repo.ada-consult.com/php-java-bridge-6.2.1.deb
+Size: 433564
+MD5sum: a37c397c6b46b534fc015964c83036c2
+SHA1: 2b0f19a6426889b86b0f83eb76ab99bebdca5d3e
+SHA256: 401fbdff20dfbea365334e027b89f60c3d71011b33e0789b68a7f04dee87a221
+Section: devel
+Priority: optional
+Description: Application allowing to execute Java code in PHP
+ Allows a PHP developper to execute Java code in PHP environment.
 
