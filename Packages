@@ -1,13 +1,13 @@
 Package: jasperreports
-Version: 4.0.1-1
+Version: 4.0.1-2
 Architecture: all
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
-Depends: sun-java6-bin
-Filename: ./jasperreports-4.0.1-1.deb
-Size: 36491048
-MD5sum: 57fa67e84d99ddbe6d3e3765d315565f
-SHA1: 1906f105d00daaa71e5b2b2d8cdc6580bae39f05
-SHA256: c51415921e0b8510b7aabc10625e8ed2dbc4e8c5557a8ecca7d4ae7a25359059
+Depends: java-runtime-headless
+Filename: ./jasperreports-4.0.1-2.deb
+Size: 36491050
+MD5sum: 5051c9d8870c246c479193f904e4ead1
+SHA1: 06e30c9369ae1bbf59efc7c60edd299454c969a4
+SHA256: 4aafd8c65fbdfe9c4a262fc12ec6d6e40c2597ee14161703a361931542f29833
 Section: devel
 Priority: optional
 Description: Java reports library
@@ -16,15 +16,15 @@ Description: Java reports library
  http://www.jaspersoft.com
 
 Package: php-java-bridge
-Version: 6.2.1-4
+Version: 6.2.1-5
 Architecture: all
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
-Depends: sun-java6-bin, liblog4j1.2-java
-Filename: ./php-java-bridge-6.2.1-4.deb
-Size: 433840
-MD5sum: 279bb4e8c14da6ec21850e905652a2b0
-SHA1: e995f8d21b33e5734516aee866721a64c15ca55b
-SHA256: 919856c88b2b655d2841780fa8992f10cb3e38ef09ee6c353cf66b44d86e1c2a
+Depends: java-runtime-headless
+Filename: ./php-java-bridge-6.2.1-5.deb
+Size: 433922
+MD5sum: 6edee75efc11c4a4cfe859c8f826de1a
+SHA1: 1d27153c36d086f4f85e67de36310f518ef23709
+SHA256: ce90910dc460438a5159a480c79bdeba7f1b2f4e9fedca67ae377c1f6acc8673
 Section: devel
 Priority: optional
 Description: Application allowing to execute Java code in PHP
