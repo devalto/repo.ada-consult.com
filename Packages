@@ -16,15 +16,15 @@ Description: Java reports library
  http://www.jaspersoft.com
 
 Package: php-java-bridge
-Version: 6.2.1-5
+Version: 6.2.1-6
 Architecture: all
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
 Depends: java-runtime-headless
-Filename: ./php-java-bridge-6.2.1-5.deb
-Size: 433922
-MD5sum: 6edee75efc11c4a4cfe859c8f826de1a
-SHA1: 1d27153c36d086f4f85e67de36310f518ef23709
-SHA256: ce90910dc460438a5159a480c79bdeba7f1b2f4e9fedca67ae377c1f6acc8673
+Filename: ./php-java-bridge-6.2.1-6.deb
+Size: 434064
+MD5sum: dda90ee109e0f7685d8f52a798461c17
+SHA1: ec396189d6f5c625137481cc4e790998fed23ede
+SHA256: 4ff18d0a88a94d6664581c758a99b1845314947fabfa7442aacf56aa2e2576d6
 Section: devel
 Priority: optional
 Description: Application allowing to execute Java code in PHP
