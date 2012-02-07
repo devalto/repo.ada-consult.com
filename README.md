@@ -4,7 +4,7 @@
 
 Run these commands :
 
-    wget -0 - http://repo.ada-consult.com/repo.ada-consult.com.gpg.key | sudo apt-key add -
+    wget -O - http://repo.ada-consult.com/repo.ada-consult.com.gpg.key | sudo apt-key add -
     sudo sh -c "echo 'deb http://repo.ada-consult.com/ natty main' > /etc/apt/sources.list.d/ada-consult.list"
     sudo apt-get update
 
