@@ -1,0 +1,8 @@
+Origin: repo.ada-consult.com
+Label: ADA Consultants Inc. apt repository
+Codename: natty
+Architectures: amd64
+Components: main
+Description: ADA Consultants Inc. Ubuntu package repository
+SignWith: yes
+Pull: natty

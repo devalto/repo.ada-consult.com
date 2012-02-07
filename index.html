@@ -5,5 +5,11 @@
 	<body>
 		<h1>APT Repository</h1>
 		<p>Small APT repository to make our life a little bit easier</p>
+		<h2>How-to</h2>
+		<pre>
+wget -0 - http://repo.ada-consult.com/repo.ada-consult.com.gpg.key | sudo apt-key add -
+sudo sh -c "echo 'deb http://apt.aframe.com/ natty main' > /etc/apt/sources.list.d/ada-consult.list"
+sudo apt-get update
+</pre>
 	</body>
 </html>
