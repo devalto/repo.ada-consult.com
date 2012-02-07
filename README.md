@@ -13,9 +13,11 @@ Run these commands :
 To add a package, follow these instructions :
 
 Sign the debian package
+
     dpkg-sig --sign builder mypackage_0.1.2_amd64.deb
 
 Add it to the repository
+
     cd /path/to/repository
     reprepro -Vb . includedeb natty /path/to/package/mypackage_0.1.2_amd64.deb
 
