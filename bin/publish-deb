@@ -11,3 +11,7 @@ DEB=$2
 
 cp $DEB $REPO
 dpkg-scanpackages $REPO /dev/null > $REPO/Packages
+apt-ftparchive release $REPO > $REPO/Release
+
+rm $REPO/Release.gpg
+gpg -abs -o $REPO/Release.gpg $REPO/Release
