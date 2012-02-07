@@ -1,0 +1,19 @@
+Origin: repo.ada-consult.com
+Label: ADA Consultants Inc. apt repository
+Codename: lucid
+Date: Tue, 07 Feb 2012 21:22:47 UTC
+Architectures: amd64
+Components: main
+Description: ADA Consultants Inc. Ubuntu package repository
+MD5Sum:
+ 5ce5b3bdda8971e9d3fd02b04690c77d 1109 main/binary-amd64/Packages
+ fd3328e902851be19e1d6fdf7120c4d7 600 main/binary-amd64/Packages.gz
+ 4a1c0599bc00d79cdb04b35d07fb3878 168 main/binary-amd64/Release
+SHA1:
+ 0e17e2ef9714e9297ac8d91c4460aa57ced062b0 1109 main/binary-amd64/Packages
+ 686f0a7715ede944d05ab7a3af640e9af7325017 600 main/binary-amd64/Packages.gz
+ f8f214f18c4a2e9224ca854d3375b3f212466f0b 168 main/binary-amd64/Release
+SHA256:
+ 86eca4b5fbe2fb21379663ce9e256d8f2e4ef4a15b9e838aa30413390684b108 1109 main/binary-amd64/Packages
+ 0d0a8d4b22ff1c0e07e3a161ad9ea1ffa917913da949b7e2e36286ef82057d98 600 main/binary-amd64/Packages.gz
+ de0eb21c692612e35df074d1a7c3e24476444b38d939a8d75d747e04124e2d70 168 main/binary-amd64/Release

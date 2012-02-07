@@ -1,0 +1,5 @@
+Component: main
+Origin: repo.ada-consult.com
+Label: ADA Consultants Inc. apt repository
+Architecture: amd64
+Description: ADA Consultants Inc. Ubuntu package repository
