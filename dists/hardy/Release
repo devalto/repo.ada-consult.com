@@ -1,19 +1,19 @@
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
 Codename: hardy
-Date: Tue, 07 Feb 2012 21:22:20 UTC
+Date: Wed, 08 Feb 2012 16:20:34 UTC
 Architectures: amd64
 Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 MD5Sum:
- 5ce5b3bdda8971e9d3fd02b04690c77d 1109 main/binary-amd64/Packages
- fd3328e902851be19e1d6fdf7120c4d7 600 main/binary-amd64/Packages.gz
+ 0e2bb6c84b8ec24d2edec94997eb0e01 1105 main/binary-amd64/Packages
+ c9a4b77e6b6c84170a3c0da79b477863 601 main/binary-amd64/Packages.gz
  4a1c0599bc00d79cdb04b35d07fb3878 168 main/binary-amd64/Release
 SHA1:
- 0e17e2ef9714e9297ac8d91c4460aa57ced062b0 1109 main/binary-amd64/Packages
- 686f0a7715ede944d05ab7a3af640e9af7325017 600 main/binary-amd64/Packages.gz
+ 22dbd53037b3a17d5bc6f2abec518d1103b4562a 1105 main/binary-amd64/Packages
+ c8c8a53b191d978017b5dc33b43b6eb9f0c7902c 601 main/binary-amd64/Packages.gz
  f8f214f18c4a2e9224ca854d3375b3f212466f0b 168 main/binary-amd64/Release
 SHA256:
- 86eca4b5fbe2fb21379663ce9e256d8f2e4ef4a15b9e838aa30413390684b108 1109 main/binary-amd64/Packages
- 0d0a8d4b22ff1c0e07e3a161ad9ea1ffa917913da949b7e2e36286ef82057d98 600 main/binary-amd64/Packages.gz
+ d627d39edf5e22563addc73be5967a0adb05f012d10e5220470e68dc15a42b3c 1105 main/binary-amd64/Packages
+ 817249d52e14e8f0a3be7b7a83daf208027ef9f5d9db952258d2ebc837bb1ec1 601 main/binary-amd64/Packages.gz
  de0eb21c692612e35df074d1a7c3e24476444b38d939a8d75d747e04124e2d70 168 main/binary-amd64/Release

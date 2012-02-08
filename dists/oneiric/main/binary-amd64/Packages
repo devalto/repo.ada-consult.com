@@ -1,15 +1,15 @@
 Package: jasperreports
-Version: 4.0.1-2
+Version: 4.5.0
 Architecture: all
 Depends: java-runtime-headless
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
 Priority: optional
 Section: devel
-Filename: pool/main/j/jasperreports/jasperreports_4.0.1-2_all.deb
-Size: 36492002
-SHA256: 65aaa7760b88650feed543d0e0c7c894f16fc35df84047d0b96207bbdbe26b02
-SHA1: 03140667c388c4bdf3ab3fba10901f25f8e6eaa3
-MD5sum: b6bc61b49210c813ee30680109645d51
+Filename: pool/main/j/jasperreports/jasperreports_4.5.0_all.deb
+Size: 45633090
+SHA256: 5f744a6cd06c7c085db69961e676ac83d3812b56942f851f3081c75efaf25212
+SHA1: 8ffec67f04f5fced522c46960f5263b624153473
+MD5sum: a556bc7419d002f476dcca0c004b5b6e
 Description: Java reports library
  Creates reports using specially crafted XML 
  files. For more info, see 
