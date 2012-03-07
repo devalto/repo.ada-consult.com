@@ -1,7 +1,7 @@
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
 Codename: oneiric
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 SignWith: yes
@@ -10,7 +10,7 @@ Pull: oneiric
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
 Codename: natty
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 SignWith: yes
@@ -19,7 +19,7 @@ Pull: natty
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
 Codename: lucid
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 SignWith: yes
@@ -28,7 +28,7 @@ Pull: lucid
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
 Codename: hardy
-Architectures: amd64
+Architectures: amd64 i386
 Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 SignWith: yes

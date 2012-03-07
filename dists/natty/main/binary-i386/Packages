@@ -1,0 +1,32 @@
+Package: jasperreports
+Version: 4.5.0
+Architecture: all
+Depends: java-runtime-headless
+Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
+Priority: optional
+Section: devel
+Filename: pool/main/j/jasperreports/jasperreports_4.5.0_all.deb
+Size: 45633090
+SHA256: 5f744a6cd06c7c085db69961e676ac83d3812b56942f851f3081c75efaf25212
+SHA1: 8ffec67f04f5fced522c46960f5263b624153473
+MD5sum: a556bc7419d002f476dcca0c004b5b6e
+Description: Java reports library
+ Creates reports using specially crafted XML 
+ files. For more info, see 
+ http://www.jaspersoft.com
+
+Package: php-java-bridge
+Version: 6.2.1-7
+Architecture: all
+Depends: java-runtime-headless
+Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
+Priority: optional
+Section: devel
+Filename: pool/main/p/php-java-bridge/php-java-bridge_6.2.1-7_all.deb
+Size: 435026
+SHA256: df1dc32b7b532f7309d534378cdeeeec023ae07e04f9576eef2853b480e73fc7
+SHA1: 5e2c254f95867fa0733a98b6b7c8fc6248419747
+MD5sum: 6bbde843d3cbb624d1d596e23222e5a8
+Description: Application allowing to execute Java code in PHP
+ Allows a PHP developper to execute Java code in PHP environment.
+
