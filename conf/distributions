@@ -1,5 +1,14 @@
 Origin: repo.ada-consult.com
 Label: ADA Consultants Inc. apt repository
+Codename: precise
+Architectures: amd64 i386
+Components: main
+Description: ADA Consultants Inc. Ubuntu package repository
+SignWith: yes
+Pull: precise
+
+Origin: repo.ada-consult.com
+Label: ADA Consultants Inc. apt repository
 Codename: oneiric
 Architectures: amd64 i386
 Components: main
