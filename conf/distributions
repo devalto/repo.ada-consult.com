@@ -42,3 +42,12 @@ Components: main
 Description: ADA Consultants Inc. Ubuntu package repository
 SignWith: yes
 Pull: hardy
+
+Origin: repo.ada-consult.com
+Label: ADA Consultants Inc. apt repository
+Codename: quantal
+Architectures: amd64 i386
+Components: main
+Description: ADA Consultants Inc. Ubuntu package repository
+SignWith: yes
+Pull: quantal
