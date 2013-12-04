@@ -16,17 +16,17 @@ Description: Java reports library
  http://www.jaspersoft.com
 
 Package: php-java-bridge
-Version: 6.2.1-7
+Version: 6.2.1-8
 Architecture: all
 Depends: java-runtime-headless
 Maintainer: Sylvain Filteau <sfilteau@ada-consult.com>
 Priority: optional
 Section: devel
-Filename: pool/main/p/php-java-bridge/php-java-bridge_6.2.1-7_all.deb
-Size: 435026
-SHA256: df1dc32b7b532f7309d534378cdeeeec023ae07e04f9576eef2853b480e73fc7
-SHA1: 5e2c254f95867fa0733a98b6b7c8fc6248419747
-MD5sum: 6bbde843d3cbb624d1d596e23222e5a8
+Filename: pool/main/p/php-java-bridge/php-java-bridge_6.2.1-8_all.deb
+Size: 434190
+SHA256: e44d294e9d52eaef8f958650601431929b1a98d0825cbf694acd2067bb57cad5
+SHA1: 29523447ca3db53a0a072bb06628472611c34193
+MD5sum: f75922bd5f5728c8a8fa652ca0e58575
 Description: Application allowing to execute Java code in PHP
  Allows a PHP developper to execute Java code in PHP environment.
 
